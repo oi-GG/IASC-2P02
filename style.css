@@ -1,0 +1,31 @@
+body {
+    background-color: darkseagreen;
+    color: cornsilk;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h1{
+    font-size: 36px;
+    text-decoration: overline;
+}
+
+h2{
+    font-size: 28px;
+    font-style: italic;
+}
+
+li{
+    font-size: 24px;
+    list-style-type: circle;
+}
+
+a{
+    color: sienna;
+    text-decoration:overline;
+}
+
+a:hover{
+    color: darkred;
+    text-decoration: none;
+}
